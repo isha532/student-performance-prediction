@@ -1,4 +1,3 @@
-# student-performance-prediction
 # Student Performance Prediction using Machine Learning
 
 This project predicts student marks based on study hours using a simple
